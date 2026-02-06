@@ -3,7 +3,7 @@ public class Fraction
     private int _top;
     private int _bot;
 
-
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     public Fraction()
     {
